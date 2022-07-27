@@ -1,4 +1,4 @@
-#Add private note to order list
+# Add private note to order list
 
 This module add the private note field to the order list on Prestashop 1.7.
 
